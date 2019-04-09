@@ -1,4 +1,4 @@
-<img src="https://github.com/Filippos-Filippidis/DF_Website/blob/master/assets/images/600x600-01-01.png" alt="DF" width="200" height="200">
+<img src="https://github.com/Filippos-Filippidis/DF_Website/blob/master/assets/images/600x600-01-01.png" alt="DF" width="300" height="300">
 
 # DF_Website
 
