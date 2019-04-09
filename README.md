@@ -1,6 +1,6 @@
-# DF_Website
-
 <img src="https://github.com/Filippos-Filippidis/DF_Website/blob/master/assets/images/600x600-01-01.png" alt="DF" width="200" height="200">
+
+# DF_Website
 
 DataFormLab Website
 
